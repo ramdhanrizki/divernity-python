@@ -86,3 +86,4 @@ with open('tfidf.pickle','wb') as handle:
     pickle.dump(vectorizer,handle)
 
 
+
